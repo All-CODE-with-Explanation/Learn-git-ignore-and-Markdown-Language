@@ -48,7 +48,7 @@ Use three dash for Horizontal Line
 By writing code between the sigle upper dash like :  
 `code`
 
-By writing triple dash then mention Programming Language and Finally Mentioning Like :
+By writing triple dash then mention Programming Language and Finally Mentioning Like : ```<p> &nbsp; </p> ```
 
 ```js
 const var = 14;
